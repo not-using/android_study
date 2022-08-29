@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">doitmission10</string>
+    <string name="menu_name1">메뉴1</string>
+    <string name="menu_name2">메뉴2</string>
+    <string name="menu_name3">메뉴3</string>
+    <string name="navigation_drawer_open">열림</string>
+    <string name="navigation_drawer_close">닫힘</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
